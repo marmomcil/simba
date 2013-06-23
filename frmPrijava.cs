@@ -57,9 +57,9 @@ namespace simba
 
             if (loginSuccesful == true)
             {
-                frmGlavniIzbornik gui = new frmGlavniIzbornik();
+                frmDobrodosli welcome = new frmDobrodosli();
                 this.Hide();
-                gui.Show();
+                welcome.Show();
             }
             
         }
