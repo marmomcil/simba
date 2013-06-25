@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7464110E-4491-4BE3-BCCF-B0E19F35C78E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>simba</RootNamespace>
+    <AssemblyName>simba</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmProdajaGeneriranjeRacuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdajaGeneriranjeRacuna.Designer.cs">
+      <DependentUpon>frmProdajaGeneriranjeRacuna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUredjivanjeKataloga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUredjivanjeKataloga.Designer.cs">
+      <DependentUpon>frmUredjivanjeKataloga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDobrodosli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDobrodosli.Designer.cs">
+      <DependentUpon>frmDobrodosli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUredjivanjeKupca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUredjivanjeKupca.Designer.cs">
+      <DependentUpon>frmUredjivanjeKupca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPregledKupaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPregledKupaca.Designer.cs">
+      <DependentUpon>frmPregledKupaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrijava.Designer.cs">
+      <DependentUpon>frmPrijava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGlavniIzbornik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGlavniIzbornik.Designer.cs">
+      <DependentUpon>frmGlavniIzbornik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPregledKataloga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPregledKataloga.Designer.cs">
+      <DependentUpon>frmPregledKataloga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProdajaOdabirKupca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdajaOdabirKupca.Designer.cs">
+      <DependentUpon>frmProdajaOdabirKupca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProdajaOdabirTepiha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdajaOdabirTepiha.Designer.cs">
+      <DependentUpon>frmProdajaOdabirTepiha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProdajaTepiha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdajaTepiha.Designer.cs">
+      <DependentUpon>frmProdajaTepiha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pi2013HajebdbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pi2013HajebdbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pi2013HajebdbDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pi2013HajebdbDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pi2013HajebdbDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pi2013HajebdbDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pi2013HajebdbDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pi2013HajebdbDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmProdajaGeneriranjeRacuna.resx">
+      <DependentUpon>frmProdajaGeneriranjeRacuna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUredjivanjeKataloga.resx">
+      <DependentUpon>frmUredjivanjeKataloga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDobrodosli.resx">
+      <DependentUpon>frmDobrodosli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGlavniIzbornik.resx">
+      <DependentUpon>frmGlavniIzbornik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUredjivanjeKupca.resx">
+      <DependentUpon>frmUredjivanjeKupca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPregledKupaca.resx">
+      <DependentUpon>frmPregledKupaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrijava.resx">
+      <DependentUpon>frmPrijava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPregledKataloga.resx">
+      <DependentUpon>frmPregledKataloga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProdajaOdabirKupca.resx">
+      <DependentUpon>frmProdajaOdabirKupca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProdajaOdabirTepiha.resx">
+      <DependentUpon>frmProdajaOdabirTepiha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProdajaTepiha.resx">
+      <DependentUpon>frmProdajaTepiha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="pi2013HajebdbDataSet.xsc">
+      <DependentUpon>pi2013HajebdbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pi2013HajebdbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pi2013HajebdbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pi2013HajebdbDataSet.xss">
+      <DependentUpon>pi2013HajebdbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pi2013HajebdbDataSet1.xsc">
+      <DependentUpon>pi2013HajebdbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="pi2013HajebdbDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pi2013HajebdbDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pi2013HajebdbDataSet1.xss">
+      <DependentUpon>pi2013HajebdbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="pi2013HajebdbDataSet2.xsc">
+      <DependentUpon>pi2013HajebdbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="pi2013HajebdbDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pi2013HajebdbDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pi2013HajebdbDataSet2.xss">
+      <DependentUpon>pi2013HajebdbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="pi2013HajebdbDataSet3.xsc">
+      <DependentUpon>pi2013HajebdbDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="pi2013HajebdbDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pi2013HajebdbDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pi2013HajebdbDataSet3.xss">
+      <DependentUpon>pi2013HajebdbDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\frmProdajaOdabirKupca.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fresh-Water-Windows-7-Wallpaper-HD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1328101995_Logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Catalog20Icon2.333154_std.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kupac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash reg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\izlaz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpdateCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DodajNovi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uredi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ObrisiTepih.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\libros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\welcome-mat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-view-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
