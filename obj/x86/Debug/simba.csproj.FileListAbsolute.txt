@@ -1,0 +1,198 @@
+c:\users\tomi\documents\visual studio 2010\Projects\simba\simba\bin\Debug\simba.exe
+c:\users\tomi\documents\visual studio 2010\Projects\simba\simba\bin\Debug\simba.pdb
+c:\users\tomi\documents\visual studio 2010\Projects\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+c:\users\tomi\documents\visual studio 2010\Projects\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+c:\users\tomi\documents\visual studio 2010\Projects\simba\simba\obj\x86\Debug\simba.exe
+c:\users\tomi\documents\visual studio 2010\Projects\simba\simba\obj\x86\Debug\simba.pdb
+c:\users\tomi\documents\visual studio 2010\Projects\simba\simba\obj\x86\Debug\simba.loginScreen.resources
+C:\Users\tomi\Documents\Visual Studio 2010\Projects\simba\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\simba.exe
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\simba.pdb
+C:\Users\Marko\Desktop\simba\simba\bin\Debug\simba.exe
+C:\Users\Marko\Desktop\simba\simba\bin\Debug\simba.pdb
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+C:\Users\Marko\Desktop\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.exe
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.pdb
+C:\Users\Šiškebab\Desktop\simba\simba\bin\Debug\simba.exe
+C:\Users\Šiškebab\Desktop\simba\simba\bin\Debug\simba.pdb
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+C:\Users\Šiškebab\Desktop\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.exe
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.pdb
+C:\Users\Marko\Desktop\simba\simba\simba\bin\Debug\simba.exe
+C:\Users\Marko\Desktop\simba\simba\simba\bin\Debug\simba.pdb
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.exe
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.pdb
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\bin\Debug\simba.exe.config
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\bin\Debug\simba.exe
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\bin\Debug\simba.pdb
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\bin\Debug\simba.exe.config
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.exe
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.pdb
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\bin\Debug\simba.exe
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\bin\Debug\simba.pdb
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+C:\Users\Šiškebab\Desktop\Simba_projekt\Simba_projekt\simba\simba\obj\x86\Debug\simba.frmDobrodosli.resources
+C:\Users\Marko\Desktop\simba\simba\simba\bin\Debug\simba.exe.config
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.frmDobrodosli.resources
+C:\Users\Marko\Desktop\simba\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\bin\Debug\simba.exe.config
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.exe
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.pdb
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\bin\Debug\simba.exe
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\bin\Debug\simba.pdb
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.frmDobrodosli.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba21062013\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\bin\Debug\simba.exe.config
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.exe
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.pdb
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.frmDobrodosli.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.frmNoviKupac.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\bin\Debug\simba.exe
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\simba\simba\simba\bin\Debug\simba.pdb
+C:\Users\tomi\Desktop\simba\simba\bin\Debug\simba.exe.config
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.exe
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.pdb
+C:\Users\tomi\Desktop\simba\simba\bin\Debug\simba.exe
+C:\Users\tomi\Desktop\simba\simba\bin\Debug\simba.pdb
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.frmDobrodosli.resources
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.frmNoviKupac.resources
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.frmProdajaOdabirTepiha.resources
+C:\Users\tomi\Desktop\simba\simba\obj\x86\Debug\simba.frmProdajaOdabirKupca.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\bin\Debug\simba.exe.config
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.exe
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.pdb
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\bin\Debug\simba.exe
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\bin\Debug\simba.pdb
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmUredjivanjeKataloga.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmDobrodosli.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmUredjivanjeKupca.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmPrijava.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmProdajaOdabirKupca.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmProdajaOdabirTepiha.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.Properties.Resources.resources
+E:\FOI DOKUMENTI\VI semestar\PI\Projekt\ZA FAZU 2 PI\simbav2\simbav2\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+C:\Users\tomi\Desktop\simbav3\simba\bin\Debug\simba.exe.config
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.exe
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.pdb
+C:\Users\tomi\Desktop\simbav3\simba\bin\Debug\simba.exe
+C:\Users\tomi\Desktop\simbav3\simba\bin\Debug\simba.pdb
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmUredjivanjeKataloga.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmDobrodosli.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmUredjivanjeKupca.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmPrijava.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmProdajaOdabirKupca.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmProdajaOdabirTepiha.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.Properties.Resources.resources
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+C:\Users\tomi\Desktop\simbav3\simba\obj\x86\Debug\simba.frmProdajaGeneriranjeRacuna.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\bin\Debug\simba.exe.config
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.exe
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.pdb
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\bin\Debug\simba.exe
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\bin\Debug\simba.pdb
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmProdajaGeneriranjeRacuna.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmUredjivanjeKataloga.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmDobrodosli.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmUredjivanjeKupca.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmProdajaOdabirKupca.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmProdajaOdabirTepiha.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+C:\Users\Marko\Desktop\PI_Simba\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\bin\Debug\simba.exe.config
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.exe
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.pdb
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\bin\Debug\simba.exe.manifest
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\bin\Debug\simba.application
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\bin\Debug\simba.exe
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\bin\Debug\simba.pdb
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmProdajaGeneriranjeRacuna.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmUredjivanjeKataloga.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmDobrodosli.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmGlavniIzbornik.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmUredjivanjeKupca.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmPregledKupaca.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmPrijava.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmPregledKataloga.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmProdajaOdabirKupca.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmProdajaOdabirTepiha.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.frmProdajaTepiha.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.Properties.Resources.resources
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.exe.manifest
+C:\Users\Marko\Desktop\PI_SimbaFinal\simba\simba\obj\x86\Debug\simba.application
