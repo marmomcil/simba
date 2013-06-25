@@ -104,7 +104,7 @@
             // 
             // daljeGmb
             // 
-            this.daljeGmb.Location = new System.Drawing.Point(742, 470);
+            this.daljeGmb.Location = new System.Drawing.Point(747, 470);
             this.daljeGmb.Name = "daljeGmb";
             this.daljeGmb.Size = new System.Drawing.Size(108, 33);
             this.daljeGmb.TabIndex = 4;
@@ -135,7 +135,7 @@
             // secondImgBtn
             // 
             this.secondImgBtn.Image = global::simba.Properties.Resources.Actions_go_next_view_icon;
-            this.secondImgBtn.Location = new System.Drawing.Point(742, 434);
+            this.secondImgBtn.Location = new System.Drawing.Point(747, 434);
             this.secondImgBtn.Name = "secondImgBtn";
             this.secondImgBtn.Size = new System.Drawing.Size(108, 30);
             this.secondImgBtn.TabIndex = 3;
@@ -156,7 +156,7 @@
             // 
             this.slikaTepiha.Location = new System.Drawing.Point(627, 136);
             this.slikaTepiha.Name = "slikaTepiha";
-            this.slikaTepiha.Size = new System.Drawing.Size(223, 292);
+            this.slikaTepiha.Size = new System.Drawing.Size(228, 292);
             this.slikaTepiha.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.slikaTepiha.TabIndex = 2;
             this.slikaTepiha.TabStop = false;
@@ -166,7 +166,7 @@
             this.drugiKorakHeader.Image = global::simba.Properties.Resources._2;
             this.drugiKorakHeader.Location = new System.Drawing.Point(4, 12);
             this.drugiKorakHeader.Name = "drugiKorakHeader";
-            this.drugiKorakHeader.Size = new System.Drawing.Size(846, 108);
+            this.drugiKorakHeader.Size = new System.Drawing.Size(851, 108);
             this.drugiKorakHeader.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.drugiKorakHeader.TabIndex = 0;
             this.drugiKorakHeader.TabStop = false;
@@ -174,7 +174,7 @@
             // sifraTepihaDataGridViewTextBoxColumn
             // 
             this.sifraTepihaDataGridViewTextBoxColumn.DataPropertyName = "SifraTepiha";
-            this.sifraTepihaDataGridViewTextBoxColumn.HeaderText = "SifraTepiha";
+            this.sifraTepihaDataGridViewTextBoxColumn.HeaderText = "Šifra tepiha";
             this.sifraTepihaDataGridViewTextBoxColumn.Name = "sifraTepihaDataGridViewTextBoxColumn";
             this.sifraTepihaDataGridViewTextBoxColumn.ReadOnly = true;
             this.sifraTepihaDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
@@ -197,11 +197,13 @@
             // 
             // zemljaPorijeklaDataGridViewTextBoxColumn
             // 
+            this.zemljaPorijeklaDataGridViewTextBoxColumn.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
             this.zemljaPorijeklaDataGridViewTextBoxColumn.DataPropertyName = "ZemljaPorijekla";
-            this.zemljaPorijeklaDataGridViewTextBoxColumn.HeaderText = "ZemljaPorijekla";
+            this.zemljaPorijeklaDataGridViewTextBoxColumn.HeaderText = "Zemlja porijekla";
             this.zemljaPorijeklaDataGridViewTextBoxColumn.Name = "zemljaPorijeklaDataGridViewTextBoxColumn";
             this.zemljaPorijeklaDataGridViewTextBoxColumn.ReadOnly = true;
             this.zemljaPorijeklaDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
+            this.zemljaPorijeklaDataGridViewTextBoxColumn.Width = 86;
             // 
             // sastavDataGridViewTextBoxColumn
             // 
@@ -214,7 +216,7 @@
             // cvorazaDataGridViewTextBoxColumn
             // 
             this.cvorazaDataGridViewTextBoxColumn.DataPropertyName = "Cvoraza";
-            this.cvorazaDataGridViewTextBoxColumn.HeaderText = "Cvoraza";
+            this.cvorazaDataGridViewTextBoxColumn.HeaderText = "Čvoraza";
             this.cvorazaDataGridViewTextBoxColumn.Name = "cvorazaDataGridViewTextBoxColumn";
             this.cvorazaDataGridViewTextBoxColumn.ReadOnly = true;
             this.cvorazaDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
@@ -254,7 +256,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.ClientSize = new System.Drawing.Size(851, 507);
+            this.ClientSize = new System.Drawing.Size(867, 523);
             this.Controls.Add(this.odustaniGmb);
             this.Controls.Add(this.nazadGmb);
             this.Controls.Add(this.daljeGmb);
@@ -265,8 +267,8 @@
             this.Controls.Add(this.drugiKorakHeader);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(859, 534);
-            this.MinimumSize = new System.Drawing.Size(859, 534);
+            this.MaximumSize = new System.Drawing.Size(880, 600);
+            this.MinimumSize = new System.Drawing.Size(875, 550);
             this.Name = "frmProdajaOdabirTepiha";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "2. korak - Odaberite tepih";

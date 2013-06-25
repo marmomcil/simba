@@ -20,7 +20,7 @@ namespace simba
         frmProdajaTepiha parentForm;
 
         private string urlSlike;
-        public static List<DataGridViewRow> tepisi = new List<DataGridViewRow>();
+        public List<DataGridViewRow> tepisi = new List<DataGridViewRow>();
         private int selectedRowIndex;
 
         private void frmProdajaOdabirTepiha_Load(object sender, EventArgs e)
@@ -135,9 +135,11 @@ namespace simba
         {
             frmProdajaOdabirKupca prodajaOdabirKupca = new frmProdajaOdabirKupca(this);
 
+            prodajaOdabirKupca.passTepisi(tepisi);
             this.Hide();
             prodajaOdabirKupca.ShowDialog();
             this.Show();
+
         }
     }
 }

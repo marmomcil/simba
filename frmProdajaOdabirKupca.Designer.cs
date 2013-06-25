@@ -85,6 +85,7 @@
             this.datagridKupci.Size = new System.Drawing.Size(827, 335);
             this.datagridKupci.TabIndex = 1;
             this.datagridKupci.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.datagridKupci_CellContentClick);
+            this.datagridKupci.CellMouseDown += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.datagridKupci_CellMouseDown);
             // 
             // oIBDataGridViewTextBoxColumn
             // 
@@ -188,7 +189,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(851, 507);
+            this.ClientSize = new System.Drawing.Size(867, 523);
             this.Controls.Add(this.nazadGmb);
             this.Controls.Add(this.daljeGmb);
             this.Controls.Add(this.odustaniGmb);
@@ -196,8 +197,8 @@
             this.Controls.Add(this.treciKorakHeader);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(859, 534);
-            this.MinimumSize = new System.Drawing.Size(859, 534);
+            this.MaximumSize = new System.Drawing.Size(880, 600);
+            this.MinimumSize = new System.Drawing.Size(875, 550);
             this.Name = "frmProdajaOdabirKupca";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "3. korak - Odaberite kupca";

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="pi2013HajebdbDataSet2" targetNamespace="http://tempuri.org/pi2013HajebdbDataSet2.xsd" xmlns:mstns="http://tempuri.org/pi2013HajebdbDataSet2.xsd" xmlns="http://tempuri.org/pi2013HajebdbDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="pi2013HajebdbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="pi2013HajebdbConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.simba.Properties.Settings.GlobalReference.Default.pi2013HajebdbConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TepihTableAdapter" GeneratorDataComponentClassName="TepihTableAdapter" Name="Tepih" UserDataComponentName="TepihTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="pi2013HajebdbConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT     Tepih.SifraTepiha, Tepih.Naziv, Tepih.Dimenzije, Tepih.ZemljaPorijekla, Tepih.Sastav, Tepih.Cvoraza, Tepih.Cijena, Slika_1.DirektorijSlike AS Slika1, 
+                      Slika.DirektorijSlike AS Slika2
+FROM         Tepih INNER JOIN
+                      Slika ON Tepih.SifraTepiha = Slika.SifraTepiha AND Tepih.SifraTepiha * 2 = Slika.IDSlike INNER JOIN
+                      Slika AS Slika_1 ON Tepih.SifraTepiha = Slika_1.SifraTepiha AND Tepih.SifraTepiha * 2 - 1 = Slika_1.IDSlike</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="SifraTepiha" DataSetColumn="SifraTepiha" />
+              <Mapping SourceColumn="Naziv" DataSetColumn="Naziv" />
+              <Mapping SourceColumn="Dimenzije" DataSetColumn="Dimenzije" />
+              <Mapping SourceColumn="ZemljaPorijekla" DataSetColumn="ZemljaPorijekla" />
+              <Mapping SourceColumn="Sastav" DataSetColumn="Sastav" />
+              <Mapping SourceColumn="Cvoraza" DataSetColumn="Cvoraza" />
+              <Mapping SourceColumn="Cijena" DataSetColumn="Cijena" />
+              <Mapping SourceColumn="Slika1" DataSetColumn="Slika1" />
+              <Mapping SourceColumn="Slika2" DataSetColumn="Slika2" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="pi2013HajebdbDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="pi2013HajebdbDataSet2" msprop:Generator_UserDSName="pi2013HajebdbDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Tepih" msprop:Generator_TableClassName="TepihDataTable" msprop:Generator_TableVarName="tableTepih" msprop:Generator_RowChangedName="TepihRowChanged" msprop:Generator_TablePropName="Tepih" msprop:Generator_RowDeletingName="TepihRowDeleting" msprop:Generator_RowChangingName="TepihRowChanging" msprop:Generator_RowEvHandlerName="TepihRowChangeEventHandler" msprop:Generator_RowDeletedName="TepihRowDeleted" msprop:Generator_RowClassName="TepihRow" msprop:Generator_UserTableName="Tepih" msprop:Generator_RowEvArgName="TepihRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SifraTepiha" msprop:Generator_ColumnVarNameInTable="columnSifraTepiha" msprop:Generator_ColumnPropNameInRow="SifraTepiha" msprop:Generator_ColumnPropNameInTable="SifraTepihaColumn" msprop:Generator_UserColumnName="SifraTepiha">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Naziv" msprop:Generator_ColumnVarNameInTable="columnNaziv" msprop:Generator_ColumnPropNameInRow="Naziv" msprop:Generator_ColumnPropNameInTable="NazivColumn" msprop:Generator_UserColumnName="Naziv">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Dimenzije" msprop:Generator_ColumnVarNameInTable="columnDimenzije" msprop:Generator_ColumnPropNameInRow="Dimenzije" msprop:Generator_ColumnPropNameInTable="DimenzijeColumn" msprop:Generator_UserColumnName="Dimenzije">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ZemljaPorijekla" msprop:Generator_ColumnVarNameInTable="columnZemljaPorijekla" msprop:Generator_ColumnPropNameInRow="ZemljaPorijekla" msprop:Generator_ColumnPropNameInTable="ZemljaPorijeklaColumn" msprop:Generator_UserColumnName="ZemljaPorijekla">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Sastav" msprop:Generator_ColumnVarNameInTable="columnSastav" msprop:Generator_ColumnPropNameInRow="Sastav" msprop:Generator_ColumnPropNameInTable="SastavColumn" msprop:Generator_UserColumnName="Sastav">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cvoraza" msprop:Generator_ColumnVarNameInTable="columnCvoraza" msprop:Generator_ColumnPropNameInRow="Cvoraza" msprop:Generator_ColumnPropNameInTable="CvorazaColumn" msprop:Generator_UserColumnName="Cvoraza" type="xs:int" minOccurs="0" />
+              <xs:element name="Cijena" msprop:Generator_ColumnVarNameInTable="columnCijena" msprop:Generator_ColumnPropNameInRow="Cijena" msprop:Generator_ColumnPropNameInTable="CijenaColumn" msprop:Generator_UserColumnName="Cijena" type="xs:double" />
+              <xs:element name="Slika1" msprop:Generator_ColumnVarNameInTable="columnSlika1" msprop:Generator_ColumnPropNameInRow="Slika1" msprop:Generator_ColumnPropNameInTable="Slika1Column" msprop:Generator_UserColumnName="Slika1">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Slika2" msprop:Generator_ColumnVarNameInTable="columnSlika2" msprop:Generator_ColumnPropNameInRow="Slika2" msprop:Generator_ColumnPropNameInTable="Slika2Column" msprop:Generator_UserColumnName="Slika2">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Tepih" />
+      <xs:field xpath="mstns:SifraTepiha" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

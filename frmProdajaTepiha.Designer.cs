@@ -103,7 +103,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(851, 507);
+            this.ClientSize = new System.Drawing.Size(859, 512);
             this.Controls.Add(this.prviKorakSidebar);
             this.Controls.Add(this.prviKorakHeader);
             this.Controls.Add(this.odustaniGmb);
@@ -114,8 +114,8 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(859, 534);
-            this.MinimumSize = new System.Drawing.Size(859, 534);
+            this.MaximumSize = new System.Drawing.Size(880, 600);
+            this.MinimumSize = new System.Drawing.Size(875, 550);
             this.Name = "frmProdajaTepiha";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "1. korak";
